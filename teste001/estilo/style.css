@@ -16,6 +16,7 @@ div#back{
 div#formulario{
     height: 100vh;
     position: relative;
+    width: 500px;
 }
 div#container{
     position: absolute;
