@@ -7,6 +7,6 @@ function mostrarSenha(){
         btnShowPass.classList.replace('bi-eye','bi-eye-slash')
     }else{
         inputPass.setAttribute ('type', 'password')
-        btnShowPass.classList.replace('bi-eye-slash','bi-eye',) 
+        btnShowPass.classList.replace('bi-eye-slash','bi-eye') 
     }
 }
